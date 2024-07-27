@@ -1,0 +1,19 @@
+baseurl: ''
+description: 'বাঙালি আঁতলামী দীর্ঘজীবী হোক ☭'
+footer_website: bongoarchive.org
+header_img: media/baaghermashi.jpg
+ig_category: Politician
+ig_userid: '66215080067'
+ig_username: baaghermashi
+ig_website: null
+include:
+- media
+name: "\u09AC\u09A6\u09AE\u09C7\u099C\u09BE\u099C\u09C0 \u09AE\u09BE\u09B0\u09CD\u099C\
+  \u09BE\u09B0\u09C0"
+plugins:
+- jekyll-remote-theme
+remote_theme: diptanilsaha/jekyll-theme-instagram
+theme_config:
+  archive: true
+title: baaghermashi
+url: ''
